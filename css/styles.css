@@ -15,11 +15,11 @@ body {
 }
 .jumbotron p {
   font-family: cursive;
-  font-family:
-  color: blue;
+  font-size: 15px;
+  color: #508bb8;
 }
 .container {
-  background-color: #d9e5ee;
+  /* background-color: #d9e5ee; */
 }
 img {
   width: 100%;
@@ -28,11 +28,21 @@ img {
 }
 .col-sm-4 {
   text-align: justify;
-  background-color: #cfd4d8;
+  /* background-color: #cfd4d8; */
   border-style: outset;
-  height: 650px;
+  height: 690px;
 }
 .places h3 {
   text-align: center;
   color: #3c7486;
+  font-weight: 500;
+  font-size: 25px;
+}
+blockquote {
+  /* background-color: ; */
+  backface-visibility: hidden;
+  float: right;
+}
+.panel-info {
+  margin-top: 15px;
 }
