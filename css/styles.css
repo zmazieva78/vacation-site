@@ -17,8 +17,22 @@ body {
   font-family: cursive;
   font-family:
   color: blue;
-
 }
 .container {
   background-color: #d9e5ee;
+}
+img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+.col-sm-4 {
+  text-align: justify;
+  background-color: #cfd4d8;
+  border-style: outset;
+  height: 650px;
+}
+.places h3 {
+  text-align: center;
+  color: #3c7486;
 }
